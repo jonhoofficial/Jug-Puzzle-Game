@@ -1,5 +1,5 @@
-# JugPuzzle
-A JugPuzzle game developed using Java for the 'Software Design' (CSC207) at the University of Toronto.
+# Jug Puzzle
+A Jug Puzzle game developed using Java for the 'Software Design' (CSC207) at the University of Toronto.
 
 Starter code provided by [Professor Arnold Rosenbloom](http://www.cs.toronto.edu/~arnold/), 
 [Professor Larry Zhang](http://www.cs.utoronto.ca/~ylzhang/) and Professor Sadia Sharmin.
