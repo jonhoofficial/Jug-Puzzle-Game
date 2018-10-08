@@ -1,0 +1,124 @@
+# User Stories (add as appropriate, modify at each Sprint Planning Meeting)
+
+
+# COMPLETED USER STORIES BELOW ###########################################
+--------------------------------------------------------------------------
+NAME     : See GUI
+PRIORITY : HIGH
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to see a simple, initial GUI for game play (for example, the
+           one outlined in the assignment) the GUI is non-functional
+SO THAT  : the gui can be programmed to play the game and display the game 
+		   information
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Make Move
+PRIORITY : HIGH
+ESTIMATE : 3h
+AS A     : player
+I WANT   : to be able to make a game move. That is, choose the jug that I 
+           spill from (press button). Then choose the jug I spill into 
+           (press button). Then have the 
+           move made on the JugPuzzle. Note: I don't need to see the 
+           outcome of the spill yet. That is in another user story. 
+SO THAT  : the jugs can be filled/emptied depending on the move the player
+		   decides to make.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See number of moves
+PRIORITY : MEDIUM
+ESTIMATE : 1h
+AS A     : player
+I WANT   : see the number of moves I have made in my attempt to 
+           solve the puzzle. 
+           Hint: This is another view (=Observer) on the JugPuzzle. 
+SO THAT  : player can view progress in solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See State of Jugs 
+PRIORITY : HIGH
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to graphically/visually see the current state of the jugs 
+           in the jug puzzle. 
+           Hint: This is another view (=observer), but this time 
+           it could be a view on the Jug. 
+SO THAT  : player will know the fill level for each jug
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game Anytime
+PRIORITY : LOW
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to be given the choice to start a new game at any 
+           time during the game.
+SO THAT  : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Quit Anytime
+PRIORITY : LOW
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to be able to quit the game anytime.
+SO THAT  : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won alert
+PRIORITY : MEDIUM
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to know when I have won the game. 
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won Halts Game
+PRIORITY : MEDIUM
+ESTIMATE : 1h
+AS A     : player
+I WANT   : Not have the ability to make another move once 
+           the puzzle is solved. 
+SO THAT  : I can't accidentally corrupt my score by making a move 
+           after solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game when Won
+PRIORITY : LOW
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to be given the choice to play a new game or to quit, once the 
+           game is over. 
+SO THAT  : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Rounds Played
+PRIORITY : LOW
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to see a counter for the number of rounds played. 
+SO THAT  : players can see how many times they have attempted to beat their 
+		   high score
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : High Score
+PRIORITY : LOW
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to see the highest score (lowest number of moves made) since 
+		   starting the program.
+SO THAT  : the player can attempt to find a faster/better method to win
+		   the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Ask Before Quit/Restart
+PRIORITY : LOW
+ESTIMATE : 1h
+AS A     : player
+I WANT   : to receive confirmation to quit or to restart the game 
+SO THAT  : to ensure that there is an option to undo the action 
+		   if the button was pressed accidentally.
+--------------------------------------------------------------------------
+
+
+# OMITTED USER STORIES BELOW   ###########################################
+

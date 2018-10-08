@@ -1,0 +1,26 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 October 7, 2016
+# Sprint 1 Backlog UserStories go below
+- See GUI
+- See State of Jugs 
+- Make Move
+- See number of moves
+
+# Sprint 2 October 10, 2016
+# Sprint 2 Backlog UserStories go below
+- Won alert
+- Won Halts Game
+- New Game when Won
+- High Score
+- Rounds Played
+
+# Sprint 3 October 13, 2016
+# Sprint 3 Backlog UserStories go below
+- New Game Anytime
+- Quit Anytime
+- Ask Before Quit/Restart
+
+

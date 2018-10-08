@@ -1,0 +1,126 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add Scrum framework documents to project. Proofread 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+	
+	Obstacles : None
+
+Oct 7, 2016
+	Yesterday :
+		Messaged was sent and received by the student regarding 
+		the availability of the assignment. Scrum documents have 
+		been received.
+		
+	Today     : 
+		Pulled the project from the repository and imported 
+		JugPuzzle (Assignment1Part2) project into Eclipse. 
+		Ensure all files are accessible and send first commit when
+		project is imported and Scrum meeting for today is completed.
+				
+	Obstacles : None
+	
+Oct 8, 2016
+	Yesterday : 
+		User stories priorities and tasks have been assigned and 
+		completed. Backlogs have been completed and pushed to repo.
+		
+	Today     : 
+		Create the GUI window (with or without the necessary text 
+		and buttons) for the JugPuzzle. No button actions are required. 
+		Basic layout required: 3 Jug buttons and fill amount text.
+		
+	Obstacles : Choosing the layout and GUI style to use for the layouts.
+	
+Oct 9, 2016
+	Yesterday : 
+		GUI Layout for the game has been chosen and a minimum of 3 jug 
+		buttons have been added to the GUI.
+	
+	Today     : 
+		Team has taken a day off for the Thanksgiving holiday. 
+		Work will continue tomorrow.
+		
+	Obstacles : None
+	
+Oct 10, 2016
+	Yesterday : 
+		Team took a break for the Thanksgiving holiday. 
+		
+	Today     : 
+		Implement button actions, moves, win detection and have the GUI 
+		update for number of moves and jug status. Added quit and restart 
+		buttons 	along with their associated actionListeners.
+		
+	Obstacles : 
+		Getting the buttons to know when the player is selecting the 
+		from jug and to jug, updating gui elements upon button click, 
+		interacting the GUI file with the JugPuzzleController and its files.
+	
+Oct 11, 2016
+	Yesterday : 
+		Button actions have been implemented, Update GUI and ensure game is 
+		playable until the player wins.
+		
+	Today     : 
+		Add comments and javaDoc to program. Add high score functionality so 
+		players can see their best moves.
+		
+	Obstacles : Storing the moves to update the GUI with the high score.  
+	
+Oct 12, 2016
+	Yesterday : 
+		ActionListeners are implemented and all necessary user stories have 
+		been completed.
+		
+	Today     : 
+		Add MVC concepts into the model by creating an observer and observable.
+		
+	Obstacles : Properly integrating MVC into the program
+	
+Oct 13, 2016
+	Yesterday : 
+		Implement MVC concepts and observers/observable.
+		
+	Today     : 
+		Fix up the code, remove any inheritance related features between the 
+		controller and action listener. Continue to implement MVC concepts 
+		and observers/observable.
+		
+	Obstacles : Figuring out the best way to organize the code.
+	
+Oct 14, 2016
+	Yesterday : 
+		Continue to implement observers/observable. Ensure all code follows the 
+		MVC pattern and organize methods into individual classes.
+	
+	Today     : 
+		Continue to implement observers/observable into the program. Continue to 
+		move methods to individual classes.
+	
+	Obstacles : Properly integrate observers and observable classes following an failed attempt.
+	
+Oct 15, 2016
+	Yesterday : 
+		Completed implementing observers and observable. Code efficiency checked 
+		and code organized into MVC pattern.
+		
+	Today     : 
+		Final code clean up and check JavaDoc. 
+		Commit and push by tonight at midnight for on-time submission.
+		
+	Obstacles : None
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :
